@@ -28,10 +28,13 @@ Markers can be edited if you wish to change anything. The UI will show an identi
 In GeoJourney, a journey represents a series of connected markers. Where a user starts a journey and add markers that serve as part of said journey until they tell the app to end it.
 
 #### Starting a new journey
-Similar to adding a standalone marker, a drawer will appear upon pressing the green button. This drawer will look very similar to the one shown when adding a marker, only the title field box is where you will put the title for the whole journey and not a marker. Pressing the checkmark icon will start the journey.
+Similar to adding a standalone marker, a drawer will appear upon pressing the green button. This drawer will look very similar to the one shown when adding a marker, only the title field box is where you will put the title for the whole journey and not a marker. Pressing the checkmark icon will start the journey. While you are on a journey, you can still add standalone markers if you find something you want to write about which is irrelevant to your journey.
 
 #### Adding/Editing Journey Markers
+Whilst on a journey, you can press the green button again and it will add a journey marker. You can add the same info you do on regular markers, only this marker will be connected to others of that same journey. 
 
 #### Ending a Journey
+Once you wish to stop placing journey markers, you can press the green stop button. Doing this will complete the journey.
 
 #### Viewing a Journey
+If you wish to view a journey, you can do so by pressing any of its markers. You will see all the same info you would on a regular marker's drawer, only now the journey's title will appear under the date. You will also see buttons above the drawer that you can press to look at the next or previous marker in the journey. 
